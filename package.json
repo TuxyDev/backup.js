@@ -1,0 +1,25 @@
+{
+  "name": "backup.js",
+  "version": "0.0.1",
+  "description": "A Backup utility to back up data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TuxyDev/backup.js.git"
+  },
+  "keywords": [
+    "data",
+    "discord.js",
+    "quick",
+    "easy"
+  ],
+  "author": "TuxyDev",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/TuxyDev/backup.js/issues"
+  },
+  "homepage": "https://github.com/TuxyDev/backup.js#readme"
+}
